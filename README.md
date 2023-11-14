@@ -1,24 +1,50 @@
+<h1 align="center">
+OR:
+</h1>
 <div align="center">
-# OR:
-<hr/>
-OR: (OPA Regular, 또는: 안전하거나 안전하지 않거나)
+🔒 OPA Regular, 또는: 안전하거나 안전하지 않거나 🔒
 </div>
-
-
-
+<br>
+<br>
+<img width="1200" alt="image" src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/ee04abb8-d532-4d39-b0aa-2cc349759e03">
+<!-- 여기 제품 설명 써주는 게 좋을 듯--!>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align="center">
+🛠️ Infrastructure
+</h1>
+<img width="700" alt="image" src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/4b4df9c8-b103-4851-a288-88250a56c40d">
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align="center">
+💻 Tech Stack
+</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align="center">
+⁉️ How to start
+</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align="center">
+👩‍💻 Member
+</h1>
 <div align="center">
-# InfraSturcture
-<hr/>
-  ![image](https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/820226ff-30cc-4046-9830-2f0c6c77803c)
+
+|정다연|최아록|김세연|
+|:---:|:---:|:---:|
+|PM, Infra, Research|FrontEnd|BackEnd|
 
 </div>
-
-
-영상
-
-Tech Stack
-
-
-How tod start
-
-Member
