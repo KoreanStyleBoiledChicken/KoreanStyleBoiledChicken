@@ -25,6 +25,15 @@ OR:
 <h1 align="center">
 💻 Tech Stack
 </h1>
+
+|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/6aaa0a51-1dc2-475c-8308-9c492daac3c2" width="80">|<img src="" width="80">|<img src="" width="80">|<img src="" width="80">|
+|:---:|:---:|:---:|:---:|
+|SPRINGBOOT|JAVA|JUNIT|MONGODB|
+|<img src="" width="80">|<img src="" width="80">|
+|REACT|TYPESCRIPT|
+|<img src="" width="80">|<img src="" width="80">|<img src="" width="80">|
+|DOCKER|K8S|OPA|
+
 <br>
 <br>
 <br>
