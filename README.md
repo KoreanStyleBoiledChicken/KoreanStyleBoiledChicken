@@ -26,12 +26,12 @@ OR:
 💻 Tech Stack
 </h1>
 
-|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/6aaa0a51-1dc2-475c-8308-9c492daac3c2" width="80">|<img src="" width="80">|<img src="" width="80">|<img src="" width="80">|
-|:---:|:---:|:---:|:---:|
-|SPRINGBOOT|JAVA|JUNIT|MONGODB|
-|<img src="" width="80">|<img src="" width="80">|
+|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/6aaa0a51-1dc2-475c-8308-9c492daac3c2" width="80">|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/986d43fb-e6b2-41fb-bdc9-ef67d52515f5" width="80">|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/b2383bf2-4b7f-4967-b2b4-205b3620ac76" width="80">|
+|:---:|:---:|:---:|
+|SPRINGBOOT|JAVA|MONGODB|
+|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/44297983-2a5f-4a64-bf56-aed6d7e51a44" width="80">|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/809b3c60-b3ee-45bc-9d65-1be7468f77f2" width="80">|
 |REACT|TYPESCRIPT|
-|<img src="" width="80">|<img src="" width="80">|<img src="" width="80">|
+|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/fa98b32b-cf24-4ea8-8a24-6d8cab41420b" width="80">|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/7b85b2c3-894a-4d30-ab43-dbfea8520ae2" width="80">|<img src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/cdb7addd-62ed-44bf-af51-09b898b745f8" width="80">|
 |DOCKER|K8S|OPA|
 
 <br>
