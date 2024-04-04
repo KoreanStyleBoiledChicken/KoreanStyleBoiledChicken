@@ -11,12 +11,17 @@ OR:
 <br>
 <br>
 <br>
+<h1 align="center">
+⁉️ How to start
+</h1>
+<br>
+<img width="1200" alt="스크린샷 2024-04-05 오전 12 05 24" src="https://github.com/KoreanStyleBoiledChicken/KoreanStyleBoiledChicken/assets/81209784/d5d985b5-f337-43b8-a101-fbcf1c08ebe9">
 <br>
 <br>
 <h1 align="center">
 🛠️ Infrastructure
 </h1>
-<img width="700" alt="image" src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/4b4df9c8-b103-4851-a288-88250a56c40d">
+<img width="1200" alt="image" src="https://github.com/KoreanStyleBoiledChicken/.github/assets/97592636/4b4df9c8-b103-4851-a288-88250a56c40d">
 <br>
 <br>
 <br>
@@ -39,13 +44,7 @@ OR:
 <br>
 <br>
 <br>
-<h1 align="center">
-⁉️ How to start
-</h1>
-<br>
-<img width="560" alt="스크린샷 2024-04-05 오전 12 05 24" src="https://github.com/KoreanStyleBoiledChicken/KoreanStyleBoiledChicken/assets/81209784/d5d985b5-f337-43b8-a101-fbcf1c08ebe9">
-<br>
-<br>
+
 <br>
 <br>
 <h1 align="center">
