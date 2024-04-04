@@ -43,17 +43,14 @@ OR:
 ⁉️ How to start
 </h1>
 <br>
+<img width="560" alt="스크린샷 2024-04-05 오전 12 05 24" src="https://github.com/KoreanStyleBoiledChicken/KoreanStyleBoiledChicken/assets/81209784/d5d985b5-f337-43b8-a101-fbcf1c08ebe9">
 <br>
 <br>
 <br>
 <br>
 <h1 align="center">
-👩‍💻 Member
-</h1>
-<div align="center">
 
-|정다연|최아록|김세연|
-|:---:|:---:|:---:|
-|PM, Infra, Research|FrontEnd|BackEnd|
+
+
 
 </div>
